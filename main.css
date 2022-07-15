@@ -1,0 +1,153 @@
+.container-logo-main {
+    height: 480px;
+    background-image: url(https://s2.best-wallpaper.net/wallpaper/1920x1200/1810/Space-stars-purple_1920x1200.jpg);
+    background-size: cover;
+    background-position: 50% 60%;
+    background-repeat: no-repeat;
+    display: flex;
+    justify-content: center;
+    border-radius: 5px;
+    border: 5px solid;
+    border-color: black;
+}
+
+.container-logo {
+    background-image:url(https://s2.best-wallpaper.net/wallpaper/1920x1200/1810/Space-stars-purple_1920x1200.jpg);
+    background-position: center;
+    border: 10px solid;
+    border-color: rgb(160, 152, 152);
+    border-radius: 50%;
+    height: 430px;
+    margin-top: 16px;
+}
+
+.logo {
+    size: cover;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+}
+
+.container-2 {
+    background-color: rgba(146, 145, 146, 0.342);
+    border-width: 10px;
+    border: solid;
+    border-color: rgba(153, 151, 151, 0.767);
+    border-radius: 5px;
+    display: flex;
+    justify-content: center;
+    margin-top: 14px;
+    margin-bottom: 8px;
+    margin-left: 10%;
+}
+
+input[type="submit"] {
+    padding: 15px 30px;
+    font-size: 24px;
+    background-color: purple;
+    border: 1px solid purple;
+    border-radius: 50px;
+    cursor: pointer;
+    color: white;
+    transition: 0.5s;
+    outline: 0;
+}
+
+input[type="submit"]:hover{
+    background-color: white;
+    color: purple;
+}
+
+.projetos {
+    background-color: rgb(146, 145, 146, 0.342);
+    border-width: 20px;
+    border: solid;
+    border-color: rgb(255, 255, 255);
+    border-radius: 5px;
+    display: flex;
+    justify-content: center;
+    margin-top: 10px;
+}
+
+h1 {
+    color: rgb(255, 255, 255);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-style: italic;
+    display: flex;
+    justify-content: center;
+    color: rgb(255, 255, 255);
+}
+
+.container-3 {
+    justify-content: center;
+    width: 50%;
+    margin-right: 0;
+    justify-content: end;
+    
+}
+
+.categoria1 {
+    background-color: rgba(146, 145, 146, 0.342);
+    border-width: 10px;
+    border: solid;
+    border-color: rgb(255, 255, 255);
+    border-radius: 5px;
+    display: flex;
+    justify-content: center;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-right: 5px;
+    margin-left: 5px;
+}
+
+.categoria2 {
+    background-color: rgba(146, 145, 146, 0.342);
+    border-width: 10px;
+    border: solid;
+    border-color: rgb(255, 255, 255);
+    border-radius: 5px;
+    display: flex;
+    justify-content: center;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+
+h2 {
+    color: rgb(255, 255, 255);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-style: italic;
+    display: flex;
+    justify-content: center;
+    color: rgb(255, 255, 255);
+}
+
+div .images-1 {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    width: 100%;
+}
+
+.images-2 {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: end;
+    width: 100%;
+}
+
+img {
+    margin-bottom: 10px;
+    margin-right: 19px;
+}
+
+.container-main {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+body {
+    background-color: rgb(54, 50, 50);
+    margin: 0;
+}
